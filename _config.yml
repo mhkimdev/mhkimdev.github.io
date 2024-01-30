@@ -107,7 +107,6 @@ author:
   name             : "Myeonghoon Kim"
   avatar           : "/assets/images/firstimage.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "South Korea"
   email            : 
   links:
     - label: "Email"
@@ -120,6 +119,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@myeonghoonkim3854"
 
+    
 # Site Footer
 footer:
   links:
@@ -269,3 +269,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+      nav: "sidebar-category"

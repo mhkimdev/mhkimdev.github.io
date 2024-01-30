@@ -14,4 +14,23 @@ docs:
   - title: "대목차"
     children:
       - title: "Category"
-   
+
+sidebar-category:
+  - title: "Category"
+    children:
+      - title: "알고리즘"
+        url: "/algorithm"
+      - title: "카테고리B"
+        url:  "/CategoryB"
+      - title: "카테고리C"
+        url:  "/CategoryC"
+
+algorithm-category:
+  - title: "알고리즘"
+    children:
+      - title: "동적 계획법"
+        url: "/dp"
+      - title: "카테고리B"
+        url:  "/CategoryB"
+      - title: "카테고리C"
+        url:  "/CategoryC"
